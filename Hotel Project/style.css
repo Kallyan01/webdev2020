@@ -8,12 +8,11 @@ body
 {
     
 }
-navbar h2
+navbar .logo
 {
     position: absolute;
-    color:white;
-    padding: 20px;
-    margin-left: 30px;
+    height: 120px;
+    margin: -25px 20px 0px 20px;
 }
 .navmenu
 {
@@ -52,28 +51,4 @@ navbar h2
     font-size: medium;
     font-family: Arial;
     margin-top:100px;
-}
- 
-.footer-
-
-
-enter;
-    color:white;
-
-}enter;
-    color:white;
-}enter;
-    color:white;
-}enter;
-    color:white;
-}enter;
-    color:white;
-}enter;
-    color:white;
-}enter;
-    color:white;
-}enter;
-    color:white;
-}enter;
-    color:white;
 }
